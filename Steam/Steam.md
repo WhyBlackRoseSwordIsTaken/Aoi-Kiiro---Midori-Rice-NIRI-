@@ -1,4 +1,4 @@
-# Steam Themes Guide 🎮
+# ➤ Steam Themes Guide 🎮
 
 To make Steam look great and match your theme, we’ll use **Adwaita-for-Steam** skin. This allows you to apply certain themes to your Steam client.
 
@@ -6,7 +6,7 @@ All resources and detailed documentation can be found at the official site
 
 - **Adwaita for steam:** https://github.com/tkashkin/Adwaita-for-Steam
 
-## Installation
+## ➜ Installation
 
 1. Clone or download the repository:
 ```bash
@@ -25,6 +25,6 @@ cd Adwaita-for-Steam
 ./install.py -c vgui2 -e library/hide_whats_new
 ```
 
-## Preview
+## ➜ Preview
 
 ![Steam](/Preview/Steam.png)
