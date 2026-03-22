@@ -172,3 +172,49 @@ So here are my settings:
   - **Color:** Primary
   - **Opacity:** 100%
   - **Thickness:** 3 px
+
+*(Options not listed are left at default)*
+
+#### Widgets
+
+The widgets are arranged in order.
+
+1. **Left section**
+- **Spacer:** 5
+- **Workspaces**
+---
+2. **Central Section**
+- **Clock**
+- **Separator**
+- **Spacer:** 15
+- **Apps Launcher**
+- **Spacer:** 15
+- **Separator**
+- **Weather**
+---
+1. **Right section**
+- **Control Centre** 
+- **Separator**
+- **Colour Picker**
+- **Separator**
+
+---
+
+### App Launcher
+
+The app launcher is pretty cool; to open it, press Super + Space. Another way is from the bar if you have the widget. I’ve got it, but just for the look of it (I know I don’t always have the bar visible, but the frog adds a nice touch). So, let’s get on with my settings:
+
+I can’t say much about the settings here; you can change the size, add a border, etc. But I do recommend the following plugins, which you can install from the ‘Add-ons’ section in the settings.
+
+#### Plugins
+
+- **Calculator:** Allows you to perform mathematical operations in the launcher
+- **Dank Launcher Keys:** This shows you the DMS keybinds
+
+---
+
+### Wallpaper Carousel
+
+Esto es otro plugin que permite cambiar de fondos de manera dinamica como un carrusel, como bien indica el nombre, y es bastante bonito.
+
+---
