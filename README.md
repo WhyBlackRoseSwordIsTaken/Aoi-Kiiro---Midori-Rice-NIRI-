@@ -132,13 +132,13 @@ It might sound funny, but to check the time I’ve got a €2 clock from IKEA th
 
 **IKEA Clock:** https://www.ikea.com/es/es/p/kupong-despertador-negro-90621811/
 
-#### Settings
+#### ★ Settings
 
 Right, although I don’t see the taskbar most of the time, it’s useful to have a few things, like the workspaces, the clock and weather, and the menu for Wi-Fi, sound, etc... Not to mention the colour palette, which works really well for customising and picking colours.
 
 So here are my settings:
 
-#### Visibility:
+#### ★ Visibility:
 
   - **Hide automatically:** On
   - **Hide options when windows are open:** On
@@ -146,19 +146,19 @@ So here are my settings:
   - **Click Through:** Off
   - **Show overview:** Off
 
-#### Space:
+#### ★ Space:
 
   - **Gap between edges:** 0%
 
-#### Font size:
+#### ★ Font size:
 
 - **Font size:** 150%
 
-#### Bar transparency:
+#### ★ Bar transparency:
 
 - **Bar transparency:** 90%
 
-#### Corners and backgrounds
+#### ★ Corners and backgrounds
 
   - **Square corners:** On
   - **No Background:** On
@@ -167,7 +167,7 @@ So here are my settings:
   - **Remove Widget Padding:** Off
   - **Gothic corners:** Off
 
-#### Border
+#### ★ Border
 
   - **Color:** Primary
   - **Opacity:** 100%
@@ -175,7 +175,7 @@ So here are my settings:
 
 *(Options not listed are left at default)*
 
-#### Widgets
+#### ★ Widgets
 
 The widgets are arranged in order.
 
@@ -200,26 +200,26 @@ The widgets are arranged in order.
 
 ---
 
-### App Launcher
+### › App Launcher
 
 The app launcher is pretty cool; to open it, press Super + Space. Another way is from the bar if you have the widget. I’ve got it, but just for the look of it (I know I don’t always have the bar visible, but the frog adds a nice touch). So, let’s get on with my settings:
 
 I can’t say much about the settings here; you can change the size, add a border, etc. But I do recommend the following plugins, which you can install from the ‘Add-ons’ section in the settings.
 
-#### Plugins
+#### ★ Plugins
 
 - **Calculator:** Allows you to perform mathematical operations in the launcher
 - **Dank Launcher Keys:** This shows you the DMS keybinds
 
 ---
 
-### Wallpaper Carousel
+### › Wallpaper Carousel
 
 Esto es otro plugin que permite cambiar de fondos de manera dinamica como un carrusel, como bien indica el nombre, y es bastante bonito.
 
 ---
 
-## Additional Customization
+## ➜  Additional Customization
 
 - **Steam:** [Steam Guide](./Steam/Steam.md)
 - **Kitty:** [Kitty Guide](./Kitty/Kitty.md)
@@ -228,7 +228,7 @@ Esto es otro plugin que permite cambiar de fondos de manera dinamica como un car
 
 ---
 
-## Special thanks and Links
+## ➜ Special thanks and Links
 
 I’ve decided to add this at the end to acknowledge everything that has helped me use Niri and create this Rice:
 
@@ -250,7 +250,7 @@ And of course, here are the links to the resources I use:
 
 ---
 
-## Conclusion & Feedback
+## ➜ Conclusion & Feedback
 
 So far, I’ve loved using Linux. I started with **GNOME** 20 days ago and am now trying out **Niri**. I am really enjoying it so far; I’ve only been using it for about two days, but it’s been pretty good. It feels smooth, and it’s great for working as it lets you have lots of windows open and switch between them really easily. To be honest, I don’t know why I didn’t try Niri sooner. Another thing is that with DMS, a lot of things are much easier to set up and so on.
 
