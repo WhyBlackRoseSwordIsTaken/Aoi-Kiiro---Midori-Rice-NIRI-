@@ -122,6 +122,23 @@ Let’s move on to the fonts; I generally use Comic Neue, and then JetBrains for
 - **Comic Neue:** https://fonts.google.com/specimen/Comic+Neue?preview.script=Latn
 - **JetBrains:** https://fonts.google.com/specimen/JetBrains+Mono
 
+I use the JET BRAINS font in the terminal. It’s very easy to set up:
+
+1. Open your `kitty.conf` file, or create one, in `/.config/kitty`
+2. Add this:
+```bash
+# Font Configuration
+font_family JetBrainsMono Nerd Font
+font_size 11.0
+```
+
+Also if you want that blur effect:
+```bash
+background_opacity 0.9
+# Optional: so that the blur doesn't look odd against the text
+dynamic_background_opacity yes
+```
+
 ---
 
 ### › Dank Bar
@@ -215,8 +232,7 @@ I can’t say much about the settings here; you can change the size, add a borde
 
 ### › Wallpaper Carousel
 
-Esto es otro plugin que permite cambiar de fondos de manera dinamica como un carrusel, como bien indica el nombre, y es bastante bonito.
-
+This is another plugin that lets you switch backgrounds dynamically in a carousel-style layout, as the name suggests, and it looks rather nice.
 
 ---
 
