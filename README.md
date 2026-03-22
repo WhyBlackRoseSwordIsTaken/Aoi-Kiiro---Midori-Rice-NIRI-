@@ -222,3 +222,4 @@ Esto es otro plugin que permite cambiar de fondos de manera dinamica como un car
 ## Additional Customization
 
 - **Steam:** [Steam Guide](./Steam/Steam.md)
+- **Kitty:** [Kitty Guide](./Kitty/Kitty.md)
