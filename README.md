@@ -81,23 +81,28 @@ Let’s start with the basics: themes. DMS comes with a graphical settings inter
 
 *(Options not listed are left at default)*
 
+---
+
 ### › Cursor Theme
 
 Another key feature is the cursor. Personally, I think the default one is a bit ugly, so I swapped it for the Material Cursor, which looks really nice, and the hand when you hover over clickable items is really cool. Still, just use whichever one you like best.
 
 Installing them is very simple:
 
-1. Create a folder called `icons` in /.local/share/
+1. Create a folder called `icons` in `/.local/share/`
 2. Extract the downloaded files inside
 3. In the same themes window, look for the cursor and replace it with your own. You can change its size and make it disappear when you type
 
 - **Material Cursor:** https://www.opendesktop.org/p/1346778
 - **Website for Cursors:** https://www.opendesktop.org/browse?cat=107&ord=latest
 
+---
 
 ### › Custom Matugen Templates
 
 The Custom Matugen Templates section is designed to apply themes to specific applications; in my case, I’ve left it at the default settings, except for Kitty, which is my terminal, and where I use Kitten themes.
+
+---
 
 ### › Icon Theme
 
@@ -106,3 +111,64 @@ For the icons, I recommend Papirus and Papirus Gruvbox folders, but you can use 
 - **Papirus:** https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 - **Papirus Folders:** https://github.com/xelser/gruvbox-papirus-folders
 - **Website for Icons:** https://www.opendesktop.org/browse?cat=132&ord=latest
+
+---
+
+### › Fonts
+
+Let’s move on to the fonts; I generally use Comic Neue, and then JetBrains for Kitty. To install new fonts, you need to create a folder, named `fonts` in the directory `/.local/share/`.
+
+
+- **Comic Neue:** https://fonts.google.com/specimen/Comic+Neue?preview.script=Latn
+- **JetBrains:** https://fonts.google.com/specimen/JetBrains+Mono
+
+---
+
+### › Dank Bar
+
+Now for another key feature: the Dank Bar. Personally, I only have it visible in empty workspaces or when I have floating apps open, and when I hover the cursor over it. That way, I have the whole screen to myself for my main app, with no distractions or anything like that. 
+
+It might sound funny, but to check the time I’ve got a €2 clock from IKEA that fits onto the stand of my monitor; it looks pretty cool, and that way I can check the time whenever I want, haha. Here’s the link so you can see what it looks like and how it fits onto the monitor stand, haha.
+
+**IKEA Clock:** https://www.ikea.com/es/es/p/kupong-despertador-negro-90621811/
+
+#### Settings
+
+Right, although I don’t see the taskbar most of the time, it’s useful to have a few things, like the workspaces, the clock and weather, and the menu for Wi-Fi, sound, etc... Not to mention the colour palette, which works really well for customising and picking colours.
+
+So here are my settings:
+
+#### Visibility:
+
+  - **Hide automatically:** On
+  - **Hide options when windows are open:** On
+  - **Show/Hide manually:** On
+  - **Click Through:** Off
+  - **Show overview:** Off
+
+#### Space:
+
+  - **Gap between edges:** 0%
+
+#### Font size:
+
+- **Font size:** 150%
+
+#### Bar transparency:
+
+- **Bar transparency:** 90%
+
+#### Corners and backgrounds
+
+  - **Square corners:** On
+  - **No Background:** On
+  - **Maximize Widget Icons:** On
+  - **Maximize Widget Text:** Off
+  - **Remove Widget Padding:** Off
+  - **Gothic corners:** Off
+
+#### Border
+
+  - **Color:** Primary
+  - **Opacity:** 100%
+  - **Thickness:** 3 px
