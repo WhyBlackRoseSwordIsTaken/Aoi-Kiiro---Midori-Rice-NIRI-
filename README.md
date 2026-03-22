@@ -217,6 +217,13 @@ I can’t say much about the settings here; you can change the size, add a borde
 
 Esto es otro plugin que permite cambiar de fondos de manera dinamica como un carrusel, como bien indica el nombre, y es bastante bonito.
 
+
+---
+
+### › Firefox
+
+Firefox has an extension called `Firefox Color` that lets you create your own theme, like the one I use. I highly recommend it. If you also use the color palette in the top bar, you can pick colors from the theme and customise Firefox yourself. I’ve put my settings in the Firefox folder.
+
 ---
 
 ## ➜  Additional Customization
