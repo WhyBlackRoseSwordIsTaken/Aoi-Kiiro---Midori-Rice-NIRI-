@@ -218,3 +218,7 @@ I can’t say much about the settings here; you can change the size, add a borde
 Esto es otro plugin que permite cambiar de fondos de manera dinamica como un carrusel, como bien indica el nombre, y es bastante bonito.
 
 ---
+
+## Additional Customization
+
+- **Steam:** [Steam Guide](./Steam/Steam.md)
