@@ -2,14 +2,14 @@
 
 If you like Niri and light-coloured themes, this guide is for you. I’ve been looking for themes, fonts, backgrounds… All this to achieve a sleek, fluid and polished look for a functional desktop. If you like a blend of style and practicality, this layout could serve as a starting point for creating your own.
 
-## Features
+## ➜ Features
 
 - Detailed step-by-step customisation guide
 - Configuration files
 - Wallpapers
 - Some tips
 
-## Preview
+## ➜ Preview
 
 **Desktop:**
 ![NIRI](./Preview/Desktop.png)
@@ -25,11 +25,11 @@ If you like Niri and light-coloured themes, this guide is for you. I’ve been l
 
 To see more, go to the Preview folder
 
-## Installation
+## ➜ Installation
 
 My recommendation is to install everything from scratch and start without a desktop environment; however, you can use the Niri dotfiles that come pre-installed with your distro (in my case, CachyOS comes pre-configured, but I did a fresh install). Now, if you use that preset, it will likely come with Waybar or another alternative other than the one we’re going to use here, so you’ll simply need to change which you want to use in your Niri settings.
 
-What we’ll be using is Dank Material Shell, a full-featured desktop environment that uses Quickshell. It has a modern interface, allowing you to configure a wide range of settings, apply themes, and synchronise colours. It also includes all the standard desktop features such as notifications, the control centre, and the lock screen... To ensure you install everything correctly, I recommend using the official DMS guide, as if I were to write it here myself, I might leave things out, include something incorrect, and ultimately an official guide is always much better.
+What we’ll be using is Dank Material Shell, a full-featured desktop environment that uses Quickshell. It has a modern interface, allowing you to configure a wide range of settings, apply themes, and synchronise colors. It also includes all the standard desktop features such as notifications, the control centre, and the lock screen... To ensure you install everything correctly, I recommend using the official DMS guide, as if I were to write it here myself, I might leave things out, include something incorrect, and ultimately an official guide is always much better.
 
 **Guide:** https://danklinux.com/
 
@@ -43,6 +43,66 @@ I found this video helpful too, so I'm sharing the link in case anyone else find
 
 Right then, once you’ve installed DMS and checked that everything is working, we can move on to customisation
 
-## Customization
+## ➜ Customization
 
 Right, I think personalisation is a personal and unique thing; everyone has their own style, and obviously, many of us may share the same one. But that doesn’t mean you can’t ‘copy’, or rather, take ideas from other users. Personally, I spend hours browsing Reddit for ideas. That’s why I want to share mine too, to help others, like me, who want to personalise their desktop.
+
+### › Themes
+
+Let’s start with the basics: themes. DMS comes with a graphical settings interface that allows you to download themes from its repository. 
+
+1. Press the `Super + Space` keys to open the app launcher
+2. Open the Settings app
+3. Go to the Theme and colors section
+4. In the Explore section, look for the themes you like best (I use Petrichor)
+
+#### ★ My Theme Configuration
+
+- **Theme:** Petrichor
+- **Accent Color:** Green 🐸
+- **Automatic Color Mode:** Off
+- **Color Mode**: Light Mode On
+
+#### ★ My Widgets Styles Configuration
+
+- **Widget Style:** Base
+- **Control Center Tile Color:** Primary
+- **Button Color:** Primary
+- **Popups Transparency**: 100%
+- **Corner Radius:** 12 px
+
+#### ★ Niri design cancellations
+
+- **Close Loopholes:** On
+- **Window Spacing:** 8 px
+- **Clear Corner Radius:** Off
+- **Override Border Size**: On
+- **Edge thickness:** 3 px
+
+*(Options not listed are left at default)*
+
+### › Cursor Theme
+
+Another key feature is the cursor. Personally, I think the default one is a bit ugly, so I swapped it for the Material Cursor, which looks really nice, and the hand when you hover over clickable items is really cool. Still, just use whichever one you like best.
+
+Installing them is very simple:
+
+1. Create a folder called `icons` in /.local/share/
+2. Extract the downloaded files inside
+3. In the same themes window, look for the cursor and replace it with your own. You can change its size and make it disappear when you type
+
+- **Material Cursor:** https://www.opendesktop.org/p/1346778
+- **Website for Cursors:** https://www.opendesktop.org/browse?cat=107&ord=latest
+
+
+### › Custom Matugen Templates
+
+The Custom Matugen Templates section is designed to apply themes to specific applications; in my case, I’ve left it at the default settings, except for Kitty, which is my terminal, and where I use Kitten themes.
+
+### › Icon Theme
+
+For the icons, I recommend Papirus and Papirus Gruvbox folders, but you can use whichever ones you prefer. Save the files to the folder you created earlier for the cursors. To change the theme, simply look at the bottom of the same window where you’ll find the icons section.
+
+- **Papirus:** https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+- **Papirus Folders:** https://github.com/xelser/gruvbox-papirus-folders
+- **Website for Icons:** https://www.opendesktop.org/browse?cat=132&ord=latest
