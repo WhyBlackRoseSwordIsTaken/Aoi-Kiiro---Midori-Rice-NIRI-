@@ -223,3 +223,5 @@ Esto es otro plugin que permite cambiar de fondos de manera dinamica como un car
 
 - **Steam:** [Steam Guide](./Steam/Steam.md)
 - **Kitty:** [Kitty Guide](./Kitty/Kitty.md)
+- **Fastfetch:** [Fastfetch](./Fastfetch)
+- **Wallpapers:** [Wallpapers](./Wallpapers/Wallpapers.md)
