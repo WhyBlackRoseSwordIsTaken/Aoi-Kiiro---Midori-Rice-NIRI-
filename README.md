@@ -262,6 +262,8 @@ I’ve decided to add this at the end to acknowledge everything that has helped 
 2. https://www.reddit.com/r/unixporn/
 3. https://www.reddit.com/r/niri/
 
+-**Wallpaper Carousel:** https://github.com/ColmiiK/wallpaperCarouselMM
+
 And of course, here are the links to the resources I use:
 
 - **CachyOS:** https://cachyos.org/
