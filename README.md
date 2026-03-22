@@ -251,29 +251,6 @@ Firefox has an extension called `Firefox Color` that lets you create your own th
 
 ---
 
-## ➜ Special thanks and Links
-
-I’ve decided to add this at the end to acknowledge everything that has helped me use Niri and create this Rice:
-
-- **Atareo:** https://www.youtube.com/watch?v=2DRfehYH2U8&t=4s and https://www.youtube.com/watch?v=UWhn_LPWwn4&t=764s
-- **TheBlackDon:** https://www.youtube.com/watch?v=1wHBUihASWU&t=1s
-- **Reddit forums:**
-1. https://www.reddit.com/r/LinuxPorn/
-2. https://www.reddit.com/r/unixporn/
-3. https://www.reddit.com/r/niri/
-
-And of course, here are the links to the resources I use:
-
-- **CachyOS:** https://cachyos.org/
-- **Niri:** https://niri-wm.github.io/niri/
-- **Dank Linux:** https://danklinux.com
-- **Wallpaper Carousel:** https://github.com/ColmiiK/wallpaperCarouselMM
-- **Papirus:** https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
-- **Papirus Folders:** https://github.com/xelser/gruvbox-papirus-folders
-- **Material Cursor:** https://www.opendesktop.org/p/1346778
-
----
-
 ## ➜ Conclusion & Feedback
 
 So far, I’ve loved using Linux. I started with **GNOME** 20 days ago and am now trying out **Niri**. I am really enjoying it so far; I’ve only been using it for about two days, but it’s been pretty good. It feels smooth, and it’s great for working as it lets you have lots of windows open and switch between them really easily. To be honest, I don’t know why I didn’t try Niri sooner. Another thing is that with DMS, a lot of things are much easier to set up and so on.
@@ -300,3 +277,26 @@ If there's anything odd, something that won't load, or any errors, please leave 
 Happy ricing! :)
 
 ![Linux](./Preview/Linux.gif)
+
+---
+
+## ➜ Special thanks and Links
+
+I’ve decided to add this at the end to acknowledge everything that has helped me use Niri and create this Rice:
+
+- **Atareo:** https://www.youtube.com/watch?v=2DRfehYH2U8&t=4s and https://www.youtube.com/watch?v=UWhn_LPWwn4&t=764s
+- **TheBlackDon:** https://www.youtube.com/watch?v=1wHBUihASWU&t=1s
+- **Reddit forums:**
+1. https://www.reddit.com/r/LinuxPorn/
+2. https://www.reddit.com/r/unixporn/
+3. https://www.reddit.com/r/niri/
+
+And of course, here are the links to the resources I use:
+
+- **CachyOS:** https://cachyos.org/
+- **Niri:** https://niri-wm.github.io/niri/
+- **Dank Linux:** https://danklinux.com
+- **Wallpaper Carousel:** https://github.com/ColmiiK/wallpaperCarouselMM
+- **Papirus:** https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+- **Papirus Folders:** https://github.com/xelser/gruvbox-papirus-folders
+- **Material Cursor:** https://www.opendesktop.org/p/1346778
