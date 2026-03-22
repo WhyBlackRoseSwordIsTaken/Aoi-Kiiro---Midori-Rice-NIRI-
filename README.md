@@ -45,7 +45,7 @@ Right then, once you’ve installed DMS and checked that everything is working, 
 
 ## ➜ Customization
 
-Right, I think personalisation is a personal and unique thing; everyone has their own style, and obviously, many of us may share the same one. But that doesn’t mean you can’t ‘copy’, or rather, take ideas from other users. Personally, I spend hours browsing Reddit for ideas. That’s why I want to share mine too, to help others, like me, who want to personalise their desktop.
+Right, I think personalisation is a personal and unique thing; everyone has their own style. But that doesn’t mean you can’t ‘copy’, or rather, take ideas from other users. Personally, I spend hours browsing Reddit for ideas. That’s why I want to share mine too, to help others, like me, who want to personalise their desktop.
 
 ### › Themes
 
