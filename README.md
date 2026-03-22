@@ -225,3 +225,54 @@ Esto es otro plugin que permite cambiar de fondos de manera dinamica como un car
 - **Kitty:** [Kitty Guide](./Kitty/Kitty.md)
 - **Fastfetch:** [Fastfetch](./Fastfetch)
 - **Wallpapers:** [Wallpapers](./Wallpapers/Wallpapers.md)
+
+---
+
+## Special thanks and Links
+
+I’ve decided to add this at the end to acknowledge everything that has helped me use Niri and create this Rice:
+
+- **Atareo:** https://www.youtube.com/watch?v=2DRfehYH2U8&t=4s and https://www.youtube.com/watch?v=UWhn_LPWwn4&t=764s
+- **TheBlackDon:** https://www.youtube.com/watch?v=1wHBUihASWU&t=1s
+- **Reddit forums:**
+1. https://www.reddit.com/r/LinuxPorn/
+2. https://www.reddit.com/r/unixporn/
+3. https://www.reddit.com/r/niri/
+
+And of course, here are the links to the resources I use:
+
+- **CachyOS:** https://cachyos.org/
+- **Niri:** https://niri-wm.github.io/niri/
+- **Dank Linux:** https://danklinux.com
+- **Papirus:** https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+- **Papirus Folders:** https://github.com/xelser/gruvbox-papirus-folders
+- **Material Cursor:** https://www.opendesktop.org/p/1346778
+
+---
+
+## Conclusion & Feedback
+
+So far, I’ve loved using Linux. I started with **GNOME** 20 days ago and am now trying out **Niri**. I am really enjoying it so far; I’ve only been using it for about two days, but it’s been pretty good. It feels smooth, and it’s great for working as it lets you have lots of windows open and switch between them really easily. To be honest, I don’t know why I didn’t try Niri sooner. Another thing is that with DMS, a lot of things are much easier to set up and so on.
+
+In Gaming; in my case, I get slightly better FPS than on Windows (Maybe +5%), and what I like and find most surprising are the temperatures, as they’ve dropped quite a bit compared to Windows. For example, with RDR2 and the graphics set to high, the temperatures are around 55°C (CPU) and 68°C (GPU), which is very good. (On Windows, we’re talking about 65 and 76 respectively). Here are the PC specs as well:
+
+- Intel I7 12700KF
+- Nvidia RTX 4060 8gb
+- 32 gb RAM DDR4
+- 2 tb ssd
+
+And I use a 1920x1080, 165Hz monitor
+
+So I’ll probably stick with Linux for a loooong time. There’s no reason to go back to Windows. I can play all the games I want, and better still, I have everything I use on a daily basis at my fingertips without any unnecessary tracking by… Microsoft, for example. And honestly, everything runs much more smoothly, faster, and so on…
+
+Another thing is the community, which is always ready to lend a hand, and that makes you want to keep learning about this world. So a big thank you to everyone who helps out the Linux Noobs, haha.
+
+---
+
+That's all for now, I hope you like my Rice in Niri.
+
+If there's anything odd, something that won't load, or any errors, please leave a comment or something so I can sort it out.
+
+Happy ricing! :)
+
+![Linux](./Preview/Linux.gif)
