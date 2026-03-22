@@ -255,6 +255,8 @@ Firefox has an extension called `Firefox Color` that lets you create your own th
 
 So far, I’ve loved using Linux. I started with **GNOME** 20 days ago and am now trying out **Niri**. I am really enjoying it so far; I’ve only been using it for about two days, but it’s been pretty good. It feels smooth, and it’s great for working as it lets you have lots of windows open and switch between them really easily. To be honest, I don’t know why I didn’t try Niri sooner. Another thing is that with DMS, a lot of things are much easier to set up and so on.
 
+---
+
 In Gaming; in my case, I get slightly better FPS than on Windows (Maybe +5%), and what I like and find most surprising are the temperatures, as they’ve dropped quite a bit compared to Windows. For example, with RDR2 and the graphics set to high, the temperatures are around 55°C (CPU) and 68°C (GPU), which is very good. (On Windows, we’re talking about 65 and 76 respectively). Here are the PC specs as well:
 
 - Intel I7 12700KF
@@ -263,6 +265,8 @@ In Gaming; in my case, I get slightly better FPS than on Windows (Maybe +5%), an
 - 2 tb ssd
 
 And I use a 1920x1080, 165Hz monitor
+
+---
 
 So I’ll probably stick with Linux for a loooong time. There’s no reason to go back to Windows. I can play all the games I want, and better still, I have everything I use on a daily basis at my fingertips without any unnecessary tracking by… Microsoft, for example. And honestly, everything runs much more smoothly, faster, and so on…
 
