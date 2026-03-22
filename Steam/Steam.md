@@ -28,3 +28,13 @@ cd Adwaita-for-Steam
 ## ➜ Preview
 
 ![Steam](/Preview/Steam.png)
+
+---
+
+## ➜ Tip
+
+One important thing to note when using Niri, which is a window manager, is that, at least for me, it launches games in a window, and this causes the game to crash. Fixing it is very simple:
+
+1. Open settings
+2. Go to System > Window Rules
+3. Create window rules for your games, using the Steam Game ID, for example, and set them to open in `full-screen mode`, `maximised`, and at your `resolution`.
