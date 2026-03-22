@@ -262,13 +262,12 @@ I’ve decided to add this at the end to acknowledge everything that has helped 
 2. https://www.reddit.com/r/unixporn/
 3. https://www.reddit.com/r/niri/
 
--**Wallpaper Carousel:** https://github.com/ColmiiK/wallpaperCarouselMM
-
 And of course, here are the links to the resources I use:
 
 - **CachyOS:** https://cachyos.org/
 - **Niri:** https://niri-wm.github.io/niri/
 - **Dank Linux:** https://danklinux.com
+- **Wallpaper Carousel:** https://github.com/ColmiiK/wallpaperCarouselMM
 - **Papirus:** https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 - **Papirus Folders:** https://github.com/xelser/gruvbox-papirus-folders
 - **Material Cursor:** https://www.opendesktop.org/p/1346778
